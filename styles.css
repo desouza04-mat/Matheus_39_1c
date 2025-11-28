@@ -2,3 +2,17 @@ body{
 color:black;
 background: red;
 }
+header{
+    border-bottom: solid 2px rgb(red,(170,105,171))
+    padding: 20px;
+    font-size: 32px;
+    color:
+    backgroud:
+}
+.chamada{
+     background-color: blueviolet;
+     padding-bottom: 100px;
+     padding-top: 100px;
+     display:flex;
+     justify-content: center;
+}
